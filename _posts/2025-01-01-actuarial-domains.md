@@ -42,4 +42,26 @@ Actuarial science covers a wide range of **business lines** and **functional are
 | **Pricing** | Product pricing, premium calculation, risk-adjusted rates |
 | **Risk & ALM** | Asset-liability management, capital modeling, investment risk |
 | **Auditing / Validation** | Review assumptions, compliance checks, model validation |
-| **Modeling / Softwa**
+| **Modeling / Software** | Prophet, PolyModel, SMART, stochastic modeling, simulation |
+| **Reinsurance** | Treaty design, retention analysis, solvency impact |
+| **Financial Reporting** | IFRS, GAAP, Solvency II, Indian GAAP / Ind AS |
+| **ERM / Risk Management** | Enterprise risk, stress testing, scenario analysis |
+| **Experience Analysis** | Mortality, morbidity, lapse studies, policyholder behavior |
+| **Product Development** | New products, riders, policy design |
+| **Consulting / Advisory** | Strategic planning, M&A, business decisions |
+| **Data Science / Analytics** | Predictive modeling, machine learning, data-driven insights |
+
+---
+
+### Summary
+
+Actuarial work can be classified along **two axes**:
+
+1. **Business Line** – the type of insurance, pension, or financial product being worked on.  
+2. **Functional Area** – the type of actuarial work performed (reserving, pricing, ALM, etc.).  
+
+A professional actuary may specialize in one business line (e.g., Life Insurance) but work across multiple functional domains (e.g., reserving, pricing, ALM).
+
+---
+
+*This article is part of **The Actuarial Journal**, a personal initiative to share actuarial concepts clearly. Readers are welcome to highlight any errors or share improvements.*
